@@ -73,7 +73,7 @@ npm start
 │   ├── Startups.tsx                  # Startups section
 │   ├── Contact.tsx                   # Contact section
 │   ├── Footer.tsx                    # Footer component
-│   ├── FloatingIcons.tsx             # 3D floating icons
+│   ├── FloatingParticles.tsx         # Floating particles
 │   └── ThemeProvider.tsx             # Theme context provider
 └── public/                           # Static assets
 
